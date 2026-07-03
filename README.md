@@ -8,11 +8,11 @@ A comprehensive collection of Docker notes created while learning Docker from sc
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/REPOSITORY?style=for-the-badge)
-![License](https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/4rjunkum4r/Learning-Docker?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/4rjunkum4r/Learning-Docker?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/4rjunkum4r/Learning-Docker?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/4rjunkum4r/Learning-Docker?style=for-the-badge)
+![License](https://img.shields.io/github/license/4rjunkum4r/Learning-Docker?style=for-the-badge)
 
 </div>
 
